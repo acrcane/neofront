@@ -36,8 +36,7 @@ export const SalaryTable = () => {
                 </TBody>
                 <TFoot>
                     <Col>
-                        <TitleRaw>Day</TitleRaw>
-                        <TitleRaw>Start</TitleRaw>
+                        <TitleRaw colSpan={2}>Day</TitleRaw>
                         <TitleRaw>End</TitleRaw>
                     </Col>
                 </TFoot>
