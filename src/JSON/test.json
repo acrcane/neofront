@@ -1,0 +1,24 @@
+{
+    "workSchedule": [
+      { "day": 1, "startWork": "08:30", "endWork": "13:30" },
+      { "day": 2, "startWork": "10:00", "endWork": "15:00" },
+      { "day": 3, "startWork": "07:30", "endWork": "12:30" },
+      { "day": 4, "startWork": "11:00", "endWork": "16:00" },
+      { "day": 5, "startWork": "09:30", "endWork": "17:30" },
+      { "day": 6, "startWork": "08:00", "endWork": "14:00" },
+      { "day": 7, "startWork": "07:30", "endWork": "12:30" },
+      { "day": 8, "startWork": "10:30", "endWork": "18:30" },
+      { "day": 9, "startWork": "08:30", "endWork": "13:30" },
+      { "day": 10, "startWork": "09:00", "endWork": "16:00" },
+      { "day": 11, "startWork": "10:00", "endWork": "18:00" },
+      { "day": 12, "startWork": "07:30", "endWork": "13:30" },
+      { "day": 13, "startWork": "09:00", "endWork": "15:00" },
+      { "day": 14, "startWork": "08:30", "endWork": "14:30" },
+      { "day": 15, "startWork": "10:00", "endWork": "17:00" },
+      { "day": 16, "startWork": "07:30", "endWork": "13:30" },
+      { "day": 17, "startWork": "09:30", "endWork": "14:30" },
+      { "day": 18, "startWork": "08:00", "endWork": "15:00" },
+      { "day": 19, "startWork": "07:30", "endWork": "12:30" },
+      { "day": 20, "startWork": "10:30", "endWork": "16:30" }
+    ]
+  }
